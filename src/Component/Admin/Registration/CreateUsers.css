@@ -1,0 +1,15 @@
+.create-users-container {
+    margin-top: 100px;
+    padding: 20px;
+}
+
+.form-card {
+    background-color: white;
+    border-radius: 10px;
+}
+
+.responsive-container {
+    max-width: 100%;
+    padding: 20px;
+    margin: auto;
+}
